@@ -1,3 +1,3 @@
 # hello-world
 just a test
-Right now I'm learning how to edit branches in Git.
+Right now I'm learning how to edit branches in Git. It's almost a year later and I haven't kept up w/this. Still learning...
